@@ -214,7 +214,7 @@ async function consultaAPI() {
 
   const response = await fetch(transformaURL(), {
     headers: {
-      'Authorization': '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'
+      'Authorization': ''
     }
   })
   // console.log(response)
